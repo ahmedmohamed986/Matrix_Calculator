@@ -2,7 +2,7 @@
 This Calculator can do the following operations on matrices of size up to 100 x 100: addition,subtraction,multiplication,power,transpose,determinant,inverse and division(multiplying by the inverse)
 
 ## How to use the program
-1)Enter the matrix elements separated by spaces and each row is separated by semicolon(e.g:[1 2 3;4 5 6])
+1)Enter the matrix elements separated by spaces and each row is separated by semicolon(e.g:[1 2 3;4 5 6])\
 2)For Addition Enter '+' in new line then enter the other matrix in another new line
 3)For Subtraction Enter '-' in new line then enter the other matrix in another new line
 4)For Multiplication Enter '*' in new line then enter the other matrix in another new line
